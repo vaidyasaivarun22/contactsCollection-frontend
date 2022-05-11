@@ -8,6 +8,7 @@ h3{
 }
 h3:hover{
     background-color:#F0AD4E;
+    border-block-color: black;
 }
 button{
     margin-top: 5px;
