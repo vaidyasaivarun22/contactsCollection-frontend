@@ -1,5 +1,5 @@
 <div class="mobile">
-  <h1 class="text-center">Phone number Collection</h1><hr>
+  <h1 class="text-center">Phone Number Collection</h1><hr>
   <label for="" class="text-center text-primary">Add a contact</label><br>
   <input type="text" placeholder="Enter a phone number here" #ref><br>
   <input type="text" placeholder="Enter contact name here" #ref2><br>
@@ -7,7 +7,7 @@
   
 
   <!-- Display to do list -->
-  <h1>List Of Contacts</h1><hr>
+  <h1>Your Contacts</h1><hr>
   <h2 *ngIf="numbers.length == 0"><i class="fa-solid fa-magnifying-glass"></i> No items Found!!!</h2>
   <div id="bm" class="mt-5 bg-light">
     <h3 *ngFor="let item of numbers;let ind=index">
