@@ -6,5 +6,14 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'todolistApp';
+  // title = 'todolistApp';
+  numbers:string[]=[];
+  senditem(item: any,item2: any)
+  {
+    this.numbers.push(item+" "+item2);
+  }
+  deletecontact(index: any)
+  {
+    this.numbers.splice(index,1);
+  }
 }

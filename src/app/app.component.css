@@ -1,0 +1,23 @@
+h1{
+    background-color: black;
+    color: white;
+}
+h3{
+    color:crimson;
+    background-color:#F0AD4E;
+}
+button{
+    margin-top: 5px;
+}
+input{
+    margin-top: 5px;
+}
+.mobile{
+    width: 50;
+    margin: 600px;
+    margin-top: 15px;
+    text-align: center;
+}
+.deleteBtn{
+    float:right;
+}
