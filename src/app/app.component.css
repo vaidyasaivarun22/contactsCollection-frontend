@@ -6,21 +6,25 @@ h1{
 h3{
     color:black;
     background-color: aliceblue;
+    border-radius: 3px;
 }
 h3:hover{
     background-color:#F0AD4E;
     border-block-color: black;
     border-radius: 10px;
+    box-shadow: -5px 3px 0 0px;
 }
 button{
-    margin-top: 5px;
+    margin-top: 15px;
 }
 input{
-    margin-top: 5px;
+    margin-top: 10px;
+    border-radius: 5px;
 }
 input:focus{
     background-color: aliceblue;
     margin-top: 5px;
+    box-shadow: -5px 3px 0 0px;
 }
 .mobile{
     width: 50;
