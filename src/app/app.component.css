@@ -1,6 +1,7 @@
 h1{
     background-color: black;
     color: white;
+    border-radius: 5px;
 }
 h3{
     color:black;
@@ -29,6 +30,7 @@ input:focus{
 .deleteBtn{
     float:right;
     color: black;
+    border-radius: 3px;
 }
 .deleteBtn:hover{
     background-color: black;
