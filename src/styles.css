@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    margin: 10px;
+    border: 10px;
+    background-image: url('https://static.vecteezy.com/system/resources/previews/004/584/761/original/realistic-smartphone-mockup-isolated-on-yellow-background-mobile-device-concept-for-presentation-information-graphics-app-display-perspective-view-eps-format-vector.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}

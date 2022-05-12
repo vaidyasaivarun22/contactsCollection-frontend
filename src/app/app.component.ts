@@ -1,3 +1,4 @@
+import { NgIf } from '@angular/common';
 import { Component } from '@angular/core';
 
 @Component({
@@ -10,7 +11,10 @@ export class AppComponent {
   numbers:string[]=[];
   senditem(item: any,item2: any)
   {
-    this.numbers.push(item+" "+item2);
+    if(item != "" && item2 != "")
+    {
+      this.numbers.push(item+" - "+item2);
+    }
   }
   deletecontact(index: any)
   {
