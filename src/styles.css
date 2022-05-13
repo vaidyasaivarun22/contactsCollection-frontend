@@ -1,7 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
 body{
     /* background-origin:content-box; */
-    background-image: url('https://static.vecteezy.com/system/resources/previews/004/584/761/original/realistic-smartphone-mockup-isolated-on-yellow-background-mobile-device-concept-for-presentation-information-graphics-app-display-perspective-view-eps-format-vector.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-image: url(https://sambhavholidays.com/assets/img/contact.svg),url(https://www.svgrepo.com/show/72652/mobile-phone-popular-model-nexus-5.svg),url(https://www.creativefabrica.com/wp-content/uploads/2020/03/08/Contact-Call-phone-person-icon-Graphics-3390800-1-1-580x387.png),url('https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Royal_Malay_Banner_%28Yellow%29.svg/2560px-Royal_Malay_Banner_%28Yellow%29.svg.png');
+    background-repeat: no-repeat,no-repeat,no-repeat,no-repeat;
+    background-position: left top, center top,right center,right;
+    background-size: 35%,50%,40%,cover;
 }
