@@ -1,8 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
 body{
     /* background-origin:content-box; */
-    background-image: url(https://sambhavholidays.com/assets/img/contact.svg),url(https://www.svgrepo.com/show/72652/mobile-phone-popular-model-nexus-5.svg),url(https://www.creativefabrica.com/wp-content/uploads/2020/03/08/Contact-Call-phone-person-icon-Graphics-3390800-1-1-580x387.png),url('https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Royal_Malay_Banner_%28Yellow%29.svg/2560px-Royal_Malay_Banner_%28Yellow%29.svg.png');
-    background-repeat: no-repeat,no-repeat,no-repeat,no-repeat;
-    background-position: left top, center top,right center,right;
-    background-size: 35%,50%,40%,cover;
+    background-image: url(https://uploads-ssl.webflow.com/5e5cf7a5ac4294c383628c96/5ea96465bff98ab173685796_world-trans-lines.svg),url(https://www.svgrepo.com/show/72652/mobile-phone-popular-model-nexus-5.svg),url(https://www.creativefabrica.com/wp-content/uploads/2020/03/08/Contact-Call-phone-person-icon-Graphics-3390800-1-1-580x387.png),url(https://svgheart.com/wp-content/uploads/2021/12/flock-of-flying-birds-decorative-free-svg-file-SVGHEART.COM.png),url('https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Royal_Malay_Banner_%28Yellow%29.svg/2560px-Royal_Malay_Banner_%28Yellow%29.svg.png');
+    background-repeat: no-repeat,no-repeat,no-repeat,no-repeat,no-repeat;
+    background-position: left center, center top,right center,right top,right;
+    background-size: 35%,50%,40%,30%,cover;
 }
